@@ -44,7 +44,7 @@ function Profile({ navigation }) {
             </TouchableOpacity>
           </ImageBackground>
         </View>
-        <Text style={styles.headTextsProfile}>King Lammy</Text>
+        <Text style={styles.headTextsProfile}>King Sammy</Text>
         <Text style={styles.headText}>Edit Bio Data</Text>
 
         {/* data */}
